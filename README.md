@@ -41,10 +41,3 @@
 Feel free to reach out for collaboration, job opportunities, or just a chat:  
 💌 [zakaryelkins@gmail.com](mailto:zakaryelkins@gmail.com)
 
-<!-- Guestbook -->
-## 📖 Guestbook
-
-| Name       | Date      | Message  |
-|------------|-----------|----------|
-| Your Name  | Today     | Welcome! |
-
