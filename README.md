@@ -1,12 +1,15 @@
 <!-- "Hero" Header -->
-<div align="center">
-  <img src="Your_Welcome_Image_Link_Here" alt="Welcome to Zakary's Github Profile" />
+<div align="center" style="background-color: #FF00FF;">
+  <marquee><img src="Your_Welcome_Image_Link_Here" alt="Welcome to Zakary's Github Profile" /></marquee>
   <br />
   <br />
   <img height="50" alt="My Name is Zakary and I love Programming and Gaming" src="Your_Personal_Note_Image_Link_Here" />
   <br />
   <br />
 </div>
+
+<!-- Text Colors -->
+<div style="background-color: #00FF00; color: #FF0000;">
 
 ## 📖 About Me
 
@@ -16,9 +19,11 @@
 🎮 Proud owner of a PlayStation 5  
 🎮 Favorites: Old School Runescape, Minecraft  
 
+</div>
+
 ## 🛠️ Skills & Languages
 
-<pre>
+<pre style="background-color: #FFFF00; color: #FF00FF;">
 JavaScript  |██████████████ 90%
 HTML        |██████████████ 90%
 Java        |████████████ 85%
@@ -47,9 +52,16 @@ Unity       |██████████ 75%
 
 💌 Feel free to reach me at [zakaryelkins@gmail.com](mailto:zakaryelkins@gmail.com) for inquiries or offers.
 
+<!-- Guestbook -->
+## 📖 Guestbook
+
+| Name | Date | Message |
+|---|---|---|
+| Your Name Here | Today | Your Message Here |
+
 <!-- Footer -->
-<div align="center">
-  <img height="120" alt="Thanks for visiting me" src="Your_Footer_Image_Link_Here" />
+<div align="center" style="background-color: #00FFFF;">
+  <marquee><img height="120" alt="Thanks for visiting me" src="Your_Footer_Image_Link_Here" /></marquee>
   <br />
 
   ![Visitor Count](Your_Visitor_Count_Link_Here)
