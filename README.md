@@ -1,74 +1,50 @@
 <!-- "Hero" Header -->
-<div align="center" style="background-color: #FF00FF;">
-  <marquee><img src="Your_Welcome_Image_Link_Here" alt="Welcome to Zakary's Github Profile" /></marquee>
+<div align="center">
+  <img src="Your_Welcome_Image_Link_Here" alt="Welcome to Zakary's Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Zakary and I love Programming and Gaming" src="Your_Personal_Note_Image_Link_Here" />
+  <h3>👋 Hi, I'm Zakary Elkins. Welcome to my GitHub profile!</h3>
   <br />
   <br />
 </div>
-
-<!-- Text Colors -->
-<div style="background-color: #00FF00; color: #FF0000;">
 
 ## 📖 About Me
 
-👨‍💻 IT Assistant in a bank's Internal Support department  
-🎓 Final semester in Computer Programming  
-🔐 In the process of getting CompTIA certified  
-🎮 Proud owner of a PlayStation 5  
-🎮 Favorites: Old School Runescape, Minecraft  
-
-</div>
+👨‍💻 **Current Role**: IT Assistant in a bank's Internal Support department, gaining hands-on experience in technology and systems management.  
+🎓 **Education**: In my final semester, aiming to graduate with an Associate's degree in Computer Programming.  
+🔐 **Certification**: Actively working towards getting CompTIA certified.  
+🎮 **Gaming**: Avid gamer and proud owner of a PlayStation 5. Particularly fond of Old School Runescape and Minecraft.  
+🔧 **Other Interests**: Exploring cybersecurity, machine learning, and open-source contributions.
 
 ## 🛠️ Skills & Languages
 
-<pre style="background-color: #FFFF00; color: #FF00FF;">
-JavaScript  |██████████████ 90%
-HTML        |██████████████ 90%
-Java        |████████████ 85%
-React       |███████████ 80%
-C#          |███████████ 80%
-.NET        |███████████ 80%
-Python      |███████████ 80%
-ASP.NET     |██████████ 75%
-Unity       |██████████ 75%
-</pre>
+- **Proficient**: JavaScript, HTML, Java, React, C#, .NET
+- **Intermediate**: Python, ASP.NET, Unity
+- **Learning**: Cybersecurity, Cloud Computing, Data Science
 
-## 🎮 Gaming
+## 🎮 Gaming Preferences
 
-🔫 First-Person Shooters  
-🏎️ Racing Games  
-🧙‍♂️ RPGs  
-🛡️ **Favorites**: Old School Runescape, Minecraft  
+- **Genres**: First-Person Shooters, Racing Games, RPGs
+- **Favorites**: Old School Runescape, Minecraft
+- **Console**: Team PlayStation all the way!
 
-## 🎯 Goals
+## 🎯 Goals for 2023
 
-🎓 To graduate this semester  
-💼 To land a fulfilling job in the tech sector  
-🌍 To adapt and learn in the dynamic field of technology  
+- Graduate with my Associate's degree in Computer Programming
+- Secure a fulfilling role in the technology sector
+- Become CompTIA certified
+- Contribute to open-source projects
+- Learn and adapt to new programming languages and frameworks
 
-## 📬 Reach Out
+## 📬 Let's Connect!
 
-💌 Feel free to reach me at [zakaryelkins@gmail.com](mailto:zakaryelkins@gmail.com) for inquiries or offers.
+Feel free to reach out for collaboration, job opportunities, or just a chat:  
+💌 [zakaryelkins@gmail.com](mailto:zakaryelkins@gmail.com)
 
 <!-- Guestbook -->
 ## 📖 Guestbook
 
-| Name | Date | Message |
-|---|---|---|
-| Your Name Here | Today | Your Message Here |
+| Name       | Date      | Message  |
+|------------|-----------|----------|
+| Your Name  | Today     | Welcome! |
 
-<!-- Footer -->
-<div align="center" style="background-color: #00FFFF;">
-  <marquee><img height="120" alt="Thanks for visiting me" src="Your_Footer_Image_Link_Here" /></marquee>
-  <br />
-
-  ![Visitor Count](Your_Visitor_Count_Link_Here)
-
-  <img src="Your_First_Footer_Image_Link_Here" height="30" />
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="Your_Second_Footer_Image_Link_Here" />
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="Your_Third_Footer_Image_Link_Here" />
-</div>
