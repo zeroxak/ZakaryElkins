@@ -1,6 +1,5 @@
-<!-- "Hero" Header -->
 
-### <h3>👋 Hi, I'm Zakary Elkins. Welcome to my GitHub profile!</h3>
+# 👋 Hi, I'm Zakary Elkins. Welcome to my GitHub profile!
 
 
 ## 📖 About Me
