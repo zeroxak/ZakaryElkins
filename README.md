@@ -1,12 +1,7 @@
 <!-- "Hero" Header -->
-<div align="center">
-  <img src="Your_Welcome_Image_Link_Here" alt="Welcome to Zakary's Github Profile" />
-  <br />
-  <br />
-  <h3>👋 Hi, I'm Zakary Elkins. Welcome to my GitHub profile!</h3>
-  <br />
-  <br />
-</div>
+
+### <h3>👋 Hi, I'm Zakary Elkins. Welcome to my GitHub profile!</h3>
+
 
 ## 📖 About Me
 
